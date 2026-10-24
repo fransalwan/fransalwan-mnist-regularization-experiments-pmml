@@ -1,8 +1,8 @@
 === PMML ASSIGNMENT 2 EXPERIMENT RESULTS ===
 
 --- Baseline ---
-Test Loss: 0.0919
-Test Accuracy: 97.13%
+Test Loss: 0.0880
+Test Accuracy: 97.50%
 Model Summary:
 Model: "sequential"
 +--------------------------------------------------------------------------+
@@ -22,8 +22,8 @@ Model: "sequential"
 --------------------------------------------------
 
 --- Scenario 2(a) ---
-Test Loss: 0.1728
-Test Accuracy: 97.28%
+Test Loss: 0.1715
+Test Accuracy: 97.34%
 Model Summary:
 Model: "sequential_1"
 +--------------------------------------------------------------------------+
@@ -43,8 +43,8 @@ Model: "sequential_1"
 --------------------------------------------------
 
 --- Scenario 2(b) ---
-Test Loss: 0.1568
-Test Accuracy: 97.06%
+Test Loss: 0.1521
+Test Accuracy: 97.17%
 Model Summary:
 Model: "sequential_2"
 +--------------------------------------------------------------------------+
@@ -64,8 +64,8 @@ Model: "sequential_2"
 --------------------------------------------------
 
 --- Scenario 2(c) ---
-Test Loss: 0.0918
-Test Accuracy: 97.34%
+Test Loss: 0.0915
+Test Accuracy: 97.31%
 Model Summary:
 Model: "sequential_3"
 +--------------------------------------------------------------------------+
@@ -87,8 +87,8 @@ Model: "sequential_3"
 --------------------------------------------------
 
 --- Scenario 2(d) ---
-Test Loss: 0.0965
-Test Accuracy: 97.07%
+Test Loss: 0.0864
+Test Accuracy: 97.37%
 Model Summary:
 Model: "sequential_4"
 +--------------------------------------------------------------------------+
@@ -108,8 +108,8 @@ Model: "sequential_4"
 --------------------------------------------------
 
 --- Scenario 2(e) ---
-Test Loss: 0.1881
-Test Accuracy: 97.17%
+Test Loss: 0.1900
+Test Accuracy: 97.14%
 Model Summary:
 Model: "sequential_5"
 +--------------------------------------------------------------------------+
